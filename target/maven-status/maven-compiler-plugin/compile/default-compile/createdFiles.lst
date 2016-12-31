@@ -1,0 +1,16 @@
+com\device\vk\commands\BotCommands.class
+com\device\vk\model\user\UserResponse.class
+com\device\window\Window.class
+com\device\vk\VkService.class
+com\device\translate\Lang.class
+com\device\vk\model\dialog\Dialog.class
+com\device\thread\WindowThread.class
+com\device\vk\model\dialog\Message.class
+com\device\vk\model\dialog\MessageResponse.class
+com\device\vk\model\user\User.class
+com\device\vk\VkServiceImpl.class
+com\device\controller\MainCotroller.class
+com\device\translate\Translate.class
+com\device\thread\VkThread.class
+com\device\vk\model\dialog\DialogResponse.class
+com\device\Application.class
